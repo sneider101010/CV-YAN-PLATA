@@ -1,29 +1,28 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Yan Sneider Plata serrano
+**Profesión:** _tecnologo en analisis desarrollo de software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** [sneiderplatastudio101@gmail.com](mailto:correo@ejemplo.com)
+
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **SENA** _(2025 - Actualidad)_
+- programador.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **SENA** _(2025 - Actulidad)_
+- Programador.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **SENA** _(2022 - 2023)_
+- Tecnico en mantenimiento de equipos de computo.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **se sobre adgoritmos 1**
+- **se de java  2**
+- **se un poco sobre html 3**
 
 ---
 
